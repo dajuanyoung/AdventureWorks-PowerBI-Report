@@ -16,4 +16,4 @@ This project is simply a practice run to sharpen up my ability with PowerBI and 
 
 # Project Results
  * (https://github.com/dajuanyoung/AdventureWorks-PowerBI-Report/blob/main/Adventure%20Works%20Space%20Report.pdf) - Static view of all 4 report pages featuring visualizations
- * ([https://github.com/dajuanyoung/AdventureWorks-PowerBI-Report/blob/main/Adventure%20Works%20Space%20Report.pbix])- File containing data model, table view
+
