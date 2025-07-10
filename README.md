@@ -1,4 +1,4 @@
-# Adeventure Works Power BI Report (Practice with the tool and entire PBI WorkFlow)
+# Adventure Works Power BI Report (Practice with the tool and entire PBI WorkFlow)
 
 # Why?
 
