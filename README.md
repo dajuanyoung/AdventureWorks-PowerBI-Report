@@ -6,13 +6,13 @@ This project is simply a practice run to sharpen up my ability with PowerBI and 
 
 # Power BI WorkFlow Steps Used
 
-Loading and Transforming data in Power Query Editor
+* Loading and Transforming data in Power Query Editor
 
-Configuring data models in data view
+* Configuring data models in data view
 
-Calculations and table features added in data view
+* Calculations and table features added in data view
 
-Visuals and Reports made in report view
+* Visuals and Reports made in report view
 
 # Project Results
  * 
